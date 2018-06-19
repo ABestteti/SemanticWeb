@@ -1,4 +1,4 @@
-# SemanticWeb
+# SemanticWeb - OntoLP OMV-R Portal
 This repository comprises of two projects to implement a Semantic Web portal called OntoLP (see the production software at http://ontolp.inf.pucrs.br and http://www.inf.pucrs.br/~linatural/)
 
 The first project was developed using Java and a library developed by HP (https://mvnrepository.com/artifact/com.hp.hpl.jena/jena/2.6.4), which provides a framework to create, read, store and manipulate Ontology Web Language (OWL) files used to discribe ontologies. This project works as a backend infrastructure for the presentation layer, which creates a UI tha allow users to upload Ontologies, discribed in OWL file, and then search Ontologies stored into OVM-R.
