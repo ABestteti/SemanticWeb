@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : OntologyEvaluationView_AAAAMMDD_HHMMSS.xml
+    Created on : 20 de Outubro de 2009, 12:58
+    Author     : Anderson
+    Description:
+        Este documento XML é um modelo de referência para apresentação das
+        avaliações que uma ontologia foi submetida. Este XML sera lido
+        para apresentação de dados na página de consulta de avaliações.
+-->
+
+<OntologyEvaluation>
+    <hasEvaluationCriteria>
+        <name></name>
+        <evaluationDate></evaluationDate>
+        <evaluatorName></evaluatorName>
+        <evaluationComments></evaluationComments>
+        <evaluationValue></evaluationValue>
+    </hasEvaluationCriteria>
+    <hasEvaluationCriteria>
+        <name></name>
+        <evaluationDate></evaluationDate>
+        <evaluatorName></evaluatorName>
+        <evaluationComments></evaluationComments>
+        <evaluationValue></evaluationValue>
+    </hasEvaluationCriteria>
+</OntologyEvaluation>

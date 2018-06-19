@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : OntologyInformation.xml
+    Created on : 16 de Setembro de 2009, 21:15
+    Author     : Anderson
+    Description:
+        Este documento eh um modelo de referencia que descreve a insformacoes
+        necessarias para criar uma instancia de uma ontologia enviada pela
+        pagina de submissao de ontologias do portal OntoLP.
+-->
+
+<OntoLPOMVR>
+    <OntologyName></OntologyName>
+    <OntologySyntax></OntologySyntax>
+    <acronym></acronym>
+    <creationDate></creationDate>
+    <modificationDate></modificationDate>
+    <description></description>
+    <documentation></documentation>
+    <reference></reference>
+    <status></status>
+    <hasFormalityLevel></hasFormalityLevel>
+    <hasLicense></hasLicense>
+    <version></version>
+    <hasPriorVersion></hasPriorVersion>
+    <isOfType></isOfType>
+    <keyClasses>
+        <keyClass></keyClass>
+        <keyClass></keyClass>
+    </keyClasses>
+    <keyWords>
+        <keyWord></keyWord>
+        <keyWord></keyWord>
+    </keyWords>
+    <knownUsage>
+        <usage></usage>
+        <usage></usage>
+    </knownUsage>
+    <naturalLanguage>
+        <language></language>
+        <language></language>
+    </naturalLanguage>
+    <reference></reference>
+    <conformsToKnowledgeRepresentationParadigm>
+        <knowledgeRepParadigm></knowledgeRepParadigm>
+        <knowledgeRepParadigm></knowledgeRepParadigm>
+    </conformsToKnowledgeRepresentationParadigm>
+    <designedForOntologyTask>
+        <ontologyTask></ontologyTask>
+        <ontologyTask></ontologyTask>
+    </designedForOntologyTask>
+    <endorsedBy>
+        <endorsed></endorsed>
+        <endorsed></endorsed>
+    </endorsedBy>
+    <hasContributor>
+        <contributor></contributor>
+        <contributor></contributor>
+    </hasContributor>
+    <hasCriator>
+        <criator></criator>
+        <criator></criator>
+    </hasCriator>
+    <hasDomain>
+        <domain></domain>
+        <domain></domain>
+    </hasDomain>
+    <isBackwardCompatibleWith>
+        <backwardCompatible></backwardCompatible>
+        <backwardCompatible></backwardCompatible>
+    </isBackwardCompatibleWith>
+    <isBasedOn>
+        <basedOn></basedOn>
+        <basedOn></basedOn>
+    </isBasedOn>
+    <isIncompatibleWith>
+        <incompatible></incompatible>
+        <incompatible></incompatible>
+    </isIncompatibleWith>
+    <usedByProject>
+        <project></project>
+        <project></project>
+    </usedByProject>
+    <usedOntologyEngineeringMethodology>
+        <methodology></methodology>
+        <methodology></methodology>
+    </usedOntologyEngineeringMethodology>
+    <usedOntologyEngineeringTool>
+        <engimeeringTool></engimeeringTool>
+        <engimeeringTool></engimeeringTool>
+    </usedOntologyEngineeringTool>
+    <useImports>
+        <import></import>
+        <import></import>
+    </useImports>
+</OntoLPOMVR>

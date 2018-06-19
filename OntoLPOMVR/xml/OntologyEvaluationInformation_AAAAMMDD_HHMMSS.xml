@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : OntologyEvaluationInformation_AAAAMMDD_HHMMSS.xml
+    Created on : 20 de Outubro de 2009, 13:26
+    Author     : Anderson
+    Description:
+        Este documento e um modelo de referencia que descreve a insformacoes
+        necessarias para criar uma instancia de uma avaliação da ontologia,
+        enviada pela página de submissão de avaliação de ontolgias.
+-->
+
+<OntologyEvaluation>
+    <hasEvaluationCriteria></hasEvaluationCriteria>
+    <OntologyName></OntologyName>
+    <evaluationDate></evaluationDate>
+    <evaluatorName></evaluatorName>
+    <organizationName></organizationName>
+    <e-mail></e-mail>
+    <phone></phone>
+    <evaluationComments></evaluationComments>
+    <evaluationValue></evaluationValue>
+</OntologyEvaluation>

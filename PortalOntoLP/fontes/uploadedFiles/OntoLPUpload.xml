@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<OntoLP>
+<nome>Anderson Bestteti</nome>
+<mail>anderson.bestteti@gmail.com</mail>
+<instituicao>PUCRS</instituicao>
+<grupo>PLN</grupo>
+<projeto>OntoLP</projeto>
+<site>www.inf.pucrs.br/~ontolp</site>
+<aplicacao>Portal de Ontologias</aplicacao>
+<producaoCientifica>NA</producaoCientifica>
+<comentarios>NA</comentarios>
+<ontoAnoCronstrucao>2008</ontoAnoCronstrucao>
+<ontoDominio>Aplicação</ontoDominio>
+<ontoLingua>Português</ontoLingua>
+<ontoNumEspecialistas>2</ontoNumEspecialistas>
+<ontoLinguagem>OWL</ontoLinguagem>
+<ontoURL>www.inf.pucrs.br</ontoURL>
+<ferrNome></ferrNome>
+<ferrLinguagem></ferrLinguagem>
+<ferrLicenca></ferrLicenca>
+<outroDescRecurso></outroDescRecurso>
+</OntoLP>

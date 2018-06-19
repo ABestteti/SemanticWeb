@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : OntologyMetricView_AAAAMMDD_HHMMSS.xml
+    Created on : 20 de Outubro de 2009, 11:29
+    Author     : Anderson
+    Description:
+        Este documento XML é um modelo de referência para apresentação das 
+        métricas calculadas automaticamente para ontologia. Este XML sera lido
+        para apresentação de dados na página de consulta de métricas.
+-->
+
+<OntologyMetric>
+    <usedMetric>
+        <name></name>
+        <value></value>
+        <creationDate></creationDate>
+        <comments></comments>
+    </usedMetric>
+    <usedMetric>
+        <name></name>
+        <value></value>
+        <creationDate></creationDate>
+        <comments></comments>
+    </usedMetric>
+</OntologyMetric>
